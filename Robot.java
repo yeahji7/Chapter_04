@@ -15,7 +15,7 @@ public class Robot {
 		
 	}
 
-	public Robot(String string, String string2) {  // 매개변수개
+	public Robot(String string, String string2) {  // 매개변수2개
 	
 	}
 
